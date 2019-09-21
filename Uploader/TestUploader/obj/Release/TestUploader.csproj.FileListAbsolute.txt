@@ -1,0 +1,15 @@
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Release\TestUploader.exe.config
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Release\TestUploader.exe
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Release\TestUploader.XmlSerializers.dll
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Release\TestUploader.pdb
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Release\TestUploader.csprojAssemblyReference.cache
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Release\TestUploader.Form1.resources
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Release\TestUploader.Properties.Resources.resources
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Release\TestUploader.csproj.GenerateResource.cache
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Release\TestUploader.csproj.CoreCompileInputs.cache
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Release\TestUploader.exe
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Release\TestUploader.pdb
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Release\TestUploader.XmlSerializers.dll
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Release\Newtonsoft.Json.dll
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Release\Newtonsoft.Json.xml
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Release\TestUploader.csproj.CopyComplete

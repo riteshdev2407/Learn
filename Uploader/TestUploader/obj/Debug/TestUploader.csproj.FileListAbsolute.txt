@@ -1,0 +1,16 @@
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Debug\TestUploader.exe.config
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Debug\TestUploader.exe
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Debug\TestUploader.pdb
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Debug\TestUploader.csprojAssemblyReference.cache
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Debug\TestUploader.Form1.resources
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Debug\TestUploader.Properties.Resources.resources
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Debug\TestUploader.csproj.GenerateResource.cache
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Debug\TestUploader.csproj.CoreCompileInputs.cache
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Debug\TestUploader.csproj.CopyComplete
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Debug\TestUploader.exe
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\obj\Debug\TestUploader.pdb
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Debug\Uploader.dll
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Debug\Uploader.pdb
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\TestUploader\bin\Debug\Uploader.dll.config

@@ -1,0 +1,7 @@
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\bin\Uploader.dll.config
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\bin\Uploader.dll
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\bin\Uploader.pdb
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\obj\Release\Uploader.csprojAssemblyReference.cache
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\obj\Release\Uploader.csproj.CoreCompileInputs.cache
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\obj\Release\Uploader.dll
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\obj\Release\Uploader.pdb

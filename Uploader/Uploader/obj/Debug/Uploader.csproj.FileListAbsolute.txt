@@ -1,0 +1,10 @@
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\bin\Uploader.dll.config
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\bin\Uploader.dll
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\bin\Uploader.pdb
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\bin\Newtonsoft.Json.dll
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\bin\Newtonsoft.Json.xml
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\obj\Debug\Uploader.csprojAssemblyReference.cache
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\obj\Debug\Uploader.csproj.CoreCompileInputs.cache
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\obj\Debug\Uploader.csproj.CopyComplete
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\obj\Debug\Uploader.dll
+C:\Users\TPAdmin\Downloads\UploadAnyfilePack\Uploader\Uploader\Uploader\Uploader\obj\Debug\Uploader.pdb

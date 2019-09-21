@@ -1,0 +1,8 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Uploader.dll
+bin\Uploader.pdb
+obj\Release\Uploader.dll
+obj\Release\Uploader.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Uploader.dll
+obj\Debug\Uploader.pdb
